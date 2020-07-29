@@ -23,13 +23,13 @@ const config = require("./config.json");
 const firebase = require("firebase");
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBKu6YYtW4bXbU_6fkGQWUPK-4jn5Iwvdw",
-  authDomain: "fire-b1e38.firebaseapp.com",
-  databaseURL: "https://fire-b1e38.firebaseio.com",
-  projectId: "fire-b1e38",
-  storageBucket: "fire-b1e38.appspot.com",
-  messagingSenderId: "49158407672",
-  appId: "1:49158407672:web:b51396944bf01c5bc8020d"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
