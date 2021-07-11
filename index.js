@@ -22,6 +22,7 @@ client.vote = new Map();
 const config = require("./config.json");
 const firebase = require("firebase");
 
+
 var firebaseConfig = {
   apiKey: "",
   authDomain: "",
